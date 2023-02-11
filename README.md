@@ -1,6 +1,6 @@
-# Game Freedom: Maelstrom Cataclysm
+# Game Freedom: Shadowsong Cataclysm
 
-This BugTracker is a tool to report any issues, errors, bugs and broken mechanics from the Maelstrom (Cataclysm) realm. With your reports and our skills,
+This BugTracker is a tool to report any issues, errors, bugs and broken mechanics from the Shadowsong (Classless) realm. With your reports and our skills,
 we are going to keep Herod being the highest quality Cataclysm realm in the world.
 
 # Report Template
